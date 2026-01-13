@@ -1,23 +1,29 @@
 [
   {
     "id": "proj-1",
-    "title": "Heart Disease Prediction",
-    "summary": "Predictive application designed to estimate potential heart-related risk levels.",
-    "details": "Predictive application designed to estimate potential heart-related risk levels.\n\nUtilizes user-provided health attributes to generate awareness-oriented outputs.\n\nFocused on clean interaction, straightforward input flow, and clear result visibility.\n\nDemonstrates thoughtful use of data-driven decision concepts in a user-friendly context.\n\nAims to support early awareness, without replacing clinical evaluation.",
+    "title": "Heart Disease Prediction System",
+    "summary": "ML-based prediction model using clinical data to assess heart disease risk.",
+    "details": "Built an ML-based prediction model using clinical data to assess heart disease risk.\n\nAchieved 97% sensitivity and 98% specificity using SMOTE and cross-validation techniques.\n\nDeployed the model via Streamlit/Gradio for real-time, user-friendly risk assessment.",
+    "image": "https://images.unsplash.com/photo-1559757148-5c350d0d3c56?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&h=250&q=80",
+    "tech": ["Machine Learning", "XGBoost", "Python", "Streamlit"],
     "link": "#"
   },
   {
     "id": "proj-2",
     "title": "StartupKart",
-    "summary": "Web-based platform concept for discovering startup-related insights and resources.",
-    "details": "Web-based platform concept for discovering startup-related insights and resources.\n\nHelps users explore ideas, opportunities, and entrepreneurial information in one space.\n\nBuilt with emphasis on intuitive navigation and organized content presentation.\n\nEncourages knowledge sharing within the startup ecosystem through accessible UI layouts.\n\nDesigned to simplify engagement for individuals interested in startups and innovation.",
+    "summary": "Goods taxation and price analysis system to calculate GST and evaluate product costs efficiently.",
+    "details": "Developed StartupKart, a goods taxation and price analysis system to calculate GST and evaluate product costs efficiently.\n\nAnalyzed past 10 years of price data to identify trends and support informed purchasing decisions.\n\nImplemented a recommendation feature using historical and live datasets to suggest optimal buying options.",
+    "image": "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&h=250&q=80",
+    "tech": ["React JS", "HTML", "CSS", "JavaScript"],
     "link": "#"
   },
   {
     "id": "proj-3",
     "title": "ResoNet",
-    "summary": "ESP32-based IoT sensors, GIS mapping (Leaflet), RFID/QR access control.",
-    "details": "Developed ResoNet, an IoT and GIS-enabled platform to provide MSMEs real-time access, booking, and monitoring of shared industrial infrastructure.\n\nIntegrated low-cost IoT sensors with RFID/QR-based access control and live GIS mapping to improve transparency and resource utilization.\n\nDesigned analytics dashboards to track usage trends, optimize facility management, and reduce production delays for MSMEs.",
+    "summary": "IoT and GIS-enabled platform for MSMEs real-time access, booking, and monitoring of shared industrial infrastructure.",
+    "details": "Developed ResoNet, an IoT and GIS-enabled platform to provide MSMEs real-time access, booking, and monitoring of shared industrial infrastructure.\n\nIntegrated low-cost IoT sensors with RFID/QR-based access control and live GIS mapping to improve transparency and resource utilization.\n\nDesigned analytics dashboards to track usage trends, optimize facility management, and reduce production delays.",
+    "image": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&h=250&q=80",
+    "tech": ["ESP32", "IoT", "GIS", "Leaflet", "RFID", "QR"],
     "link": "#"
   }
 ]

@@ -2,20 +2,22 @@ import React from 'react'
 
 export default function About() {
   return (
-    <section id="about" className="about container">
+    <section id="about" className="about container reveal">
       <h3>About Me</h3>
       <p>
-        I am a motivated developer with a strong interest in full-stack development and data-driven applications. I enjoy taking ideas from concept to working prototypes and learning new tools along the way. When I work on projects, I focus on clarity, simple design, and usability.
+        Based in Tirupur, Tamil Nadu, India, I am a motivated aspiring professional in Artificial Intelligence and Data Science. I am passionate about addressing real-world challenges through intelligent systems and data-driven insights.
       </p>
-      <p>
-        Beyond coding, I like exploring emerging tech, contributing to problem-solving activities, and enhancing my development skills through hands-on projects and collaborations.
-      </p>
-      <div className="project-highlights">
-        <h4>Project Highlights:</h4>
-        <ul>
-          <li><strong>Heart Disease Prediction</strong> — A predictive tool that provides risk awareness based on health inputs.</li>
-          <li><strong>StartupKart</strong> — A discovery platform to explore and share startup-focused resources.</li>
-        </ul>
+      <div className="internship">
+        <h4>Internship Experience</h4>
+        <div className="internship-item">
+          <h5>MERN Stack Developer Intern</h5>
+          <p><strong>App Innovation, Coimbatore, India</strong> | June 2025</p>
+          <ul>
+            <li>Gained hands-on experience in developing full-stack web applications using the MERN stack, focusing on building scalable and efficient solutions.</li>
+            <li>Designed responsive and user-friendly interfaces using modern front-end technologies, ensuring smooth navigation and optimal user experience.</li>
+            <li>Implemented backend integration and RESTful APIs for dynamic data handling, while maintaining clean code and version control using Git and GitHub.</li>
+          </ul>
+        </div>
       </div>
     </section>
   )

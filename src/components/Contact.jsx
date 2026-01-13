@@ -8,7 +8,7 @@ export default function Contact() {
   }
 
   return (
-    <section id="contact" className="contact">
+    <section id="contact" className="contact reveal">
       <div className="contact-toggle" onClick={toggleDetails} style={{ cursor: 'pointer' }}>
         <h3>Contact</h3>
         <span className="toggle-icon">{isExpanded ? '−' : '+'}</span>
