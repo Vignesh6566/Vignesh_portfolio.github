@@ -5,7 +5,7 @@
     "summary": "ML-based prediction model using clinical data to assess heart disease risk.",
     "details": "Built an ML-based prediction model using clinical data to assess heart disease risk.\n\nAchieved 97% sensitivity and 98% specificity using SMOTE and cross-validation techniques.\n\nDeployed the model via Streamlit/Gradio for real-time, user-friendly risk assessment.",
     "image": "https://images.unsplash.com/photo-1559757148-5c350d0d3c56?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&h=250&q=80",
-    "tech": ["Machine Learning", "XGBoost", "Python", "Streamlit"],
+    "tech": ["Machine Learning", "Python", "Streamlit"],
     "link": "#"
   },
   {
